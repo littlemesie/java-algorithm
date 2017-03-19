@@ -1,4 +1,4 @@
-package cn.mesie.machine;
+package cn.mesie.logistic;
 /**
  * logistic »Ø¹é
  * @author mesie
@@ -7,6 +7,6 @@ package cn.mesie.machine;
  */
 public class Logistic {
 	public static void main(String[] args) {
-		System.out.println(123);
+		
 	}
 }
