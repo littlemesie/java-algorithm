@@ -1,4 +1,4 @@
-package cn.mesie.examination;
+package cn.mesie.algorithm.analysis;
 /**
  *  
  * @author mesie

@@ -1,4 +1,4 @@
-package cn.mesie.examination;
+package cn.mesie.algorithm.analysis;
 
 import java.util.ArrayList;
 import java.util.Collections;
